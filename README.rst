@@ -5,9 +5,9 @@ Timduongdi.com cung cấp thông tin về:
 Địa Chỉ, Tìm Đường Đi, Hỏi đáp, Reviews địa điểm trên toàn Việt Nam
 Có thể bạn muốn xem:
 
-<url>
-<loc>https://timduongdi.com/bai-viet/trung-tam-y-te-huyen-can-duoc-ql50-tan-lan-can-duoc-long-an</loc>
-</url>
+
+https://timduongdi.com/bai-viet/trung-tam-y-te-huyen-can-duoc-ql50-tan-lan-can-duoc-long-an
+
 Trường Mẫu Giáo Dân Lập Hoàng Anh, 448/6 Đ Lê Văn Sỹ, Quận 3 là ngôi trường có địa chỉ nằm ở đâu
 
 
